@@ -1,6 +1,6 @@
 # Инструкция по использованию GIT 
 
-![git image](git_image.jpg)
+![git image](/ignorefolder/git_image.jpg)
 
 ## Первоначальные настройки
 
