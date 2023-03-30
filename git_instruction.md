@@ -81,6 +81,10 @@
 
     git checkout <name of new branch>
 
+Для удаления ветки нужно использовать флаг -d
+
+    git branch -d <name of branch>
+
 ## Команда merge
 
     git merge <name of branch>
